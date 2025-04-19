@@ -18,7 +18,7 @@
 
 ![Image](https://github.com/user-attachments/assets/d3185415-3eae-408f-b15a-c9209d484fb8)
 
-### →Trajectory and episode
+## →Trajectory and episode
 - Trajectory:
 
 ![Image](https://github.com/user-attachments/assets/c76920b2-edf8-478d-a18e-6a9f9bae3d01)
@@ -27,18 +27,18 @@
 
 ![image](https://github.com/user-attachments/assets/c7a6075c-fb5e-482d-a4f6-a4240428c4c0)
 
-### →Reward and Return
+## →Reward and Return
 - Reward:
   Reward is the imidiate result of the action.
 - Return:
   Return is the sum of reward which are obtain by an agent in a certain time untill the task is completed.
 ![image](https://github.com/user-attachments/assets/dcb7ae94-e69e-40ce-a2b8-7fcddc27f381)
 
-### →Discount Factor(γ)
+## →Discount Factor(γ)
 The discount factor essentially determines how much the reinforcement learning agents cares about rewards in the distant future relative to those in the immediate future.
 ![image](https://github.com/user-attachments/assets/b92d8f61-908f-4dff-b12a-767fa9d9fdfb)
 
-### →Policy(π)
+## →Policy(π)
 Policy is a function that decides what action to take in a particular state.
 - expression of policy:
 
@@ -47,14 +47,14 @@ Policy is a function that decides what action to take in a particular state.
 
 ![image](https://github.com/user-attachments/assets/e93a3d9f-9b10-4ffb-8f5f-2d2add8adedc)
 
-### →State values and action values
+## →State values and action values
 - Bellman Equation for the State Value Function, V(s):
 
-![image](https://github.com/user-attachments/assets/c80396d3-028f-4ff0-8180-9acf715836cd)
-
+![image](https://github.com/user-attachments/assets/7fe2e4d1-af30-4c1f-91d2-fba9bb952d62)
 - Bellman Equation for State-Action Value function, Q(s,a):
 
-![image](https://github.com/user-attachments/assets/b53c32f9-0fcc-4a7c-bd66-7c4dd835e808)
+![image](https://github.com/user-attachments/assets/4de541f6-8f72-4eac-82af-3861a8c377e5)
+
 
 
 
