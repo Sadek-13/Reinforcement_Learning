@@ -54,6 +54,12 @@ Policy is a function that decides what action to take in a particular state.
 - Bellman Equation for State-Action Value function, Q(s,a):
 
 ![image](https://github.com/user-attachments/assets/4de541f6-8f72-4eac-82af-3861a8c377e5)
+- Bellman Optimal Equation (Solving a Markov decision process):
+
+![image](https://github.com/user-attachments/assets/7b1c37c6-7b72-4a02-a03f-e58e3e1d2959)
+
+
+
 
 
 
