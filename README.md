@@ -27,11 +27,16 @@
 
 ![image](https://github.com/user-attachments/assets/c7a6075c-fb5e-482d-a4f6-a4240428c4c0)
 
-### Reward and Return
+### →Reward and Return
 - Reward:
   Reward is the imidiate result of the action.
 - Return:
   Return is the sum of reward which are obtain by an agent in a certain time untill the task is completed.
 ![image](https://github.com/user-attachments/assets/dcb7ae94-e69e-40ce-a2b8-7fcddc27f381)
+
+### →Discount Factor
+The discount factor essentially determines how much the reinforcement learning agents cares about rewards in the distant future relative to those in the immediate future.
+![image](https://github.com/user-attachments/assets/b92d8f61-908f-4dff-b12a-767fa9d9fdfb)
+
 
 
