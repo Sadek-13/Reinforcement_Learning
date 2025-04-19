@@ -58,8 +58,12 @@ Policy is a function that decides what action to take in a particular state.
 
 ![image](https://github.com/user-attachments/assets/7b1c37c6-7b72-4a02-a03f-e58e3e1d2959)
 
-### GitHub link
+### →GitHub link 
 https://github.com/escape-velocity-labs/beginner_master_rl/tree/main
+
+- install jupyter notebook
+- install jupyter lab
+
 
 
 
