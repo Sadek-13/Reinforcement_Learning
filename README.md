@@ -34,9 +34,20 @@
   Return is the sum of reward which are obtain by an agent in a certain time untill the task is completed.
 ![image](https://github.com/user-attachments/assets/dcb7ae94-e69e-40ce-a2b8-7fcddc27f381)
 
-### →Discount Factor
+### →Discount Factor(γ)
 The discount factor essentially determines how much the reinforcement learning agents cares about rewards in the distant future relative to those in the immediate future.
 ![image](https://github.com/user-attachments/assets/b92d8f61-908f-4dff-b12a-767fa9d9fdfb)
+
+### →Policy(π)
+Policy is a function that decides what action to take in a particular state.
+- expression of policy:
+
+![image](https://github.com/user-attachments/assets/dc983321-69aa-4383-b659-2add9df8f36f)
+- Types of Policy:
+
+![image](https://github.com/user-attachments/assets/e93a3d9f-9b10-4ffb-8f5f-2d2add8adedc)
+
+
 
 
 
