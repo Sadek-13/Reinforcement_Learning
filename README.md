@@ -47,6 +47,14 @@ Policy is a function that decides what action to take in a particular state.
 
 ![image](https://github.com/user-attachments/assets/e93a3d9f-9b10-4ffb-8f5f-2d2add8adedc)
 
+### →State values and action values
+- Bellman Equation for the State Value Function, V(s):
+
+![image](https://github.com/user-attachments/assets/c80396d3-028f-4ff0-8180-9acf715836cd)
+
+- Bellman Equation for State-Action Value function, Q(s,a):
+
+![image](https://github.com/user-attachments/assets/b53c32f9-0fcc-4a7c-bd66-7c4dd835e808)
 
 
 
