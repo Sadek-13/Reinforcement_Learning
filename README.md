@@ -17,3 +17,13 @@
 - Based on Conditions:
 
 ![Image](https://github.com/user-attachments/assets/d3185415-3eae-408f-b15a-c9209d484fb8)
+
+### →Trajectory and episode
+- Trajectory:
+
+![Image](https://github.com/user-attachments/assets/c76920b2-edf8-478d-a18e-6a9f9bae3d01)
+
+- episode:
+
+![image](https://github.com/user-attachments/assets/c7a6075c-fb5e-482d-a4f6-a4240428c4c0)
+
